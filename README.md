@@ -1,4 +1,5 @@
 #Análise exploratória (Ataque Cardiáco)#
+
 Essa base de dados parece ser um conjunto de dados relacionados a pacientes com problemas cardíacos, com várias variáveis ​​de entrada (ou recursos) e uma variável de saída (ou rótulo) indicando se o paciente possui ou não uma doença cardíaca. As colunas na base de dados representam as seguintes informações:
 
 age: idade do paciente em anos (variável numérica) 
